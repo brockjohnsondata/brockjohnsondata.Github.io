@@ -6,7 +6,7 @@
 
 #### [DoorDash Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+Pretty interesting right?
 
 ---
 #### [Tableau Project](/files/Day 12 - 21 days to data.pdf)
