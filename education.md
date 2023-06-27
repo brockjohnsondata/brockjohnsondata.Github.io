@@ -9,8 +9,8 @@ Me personally, I've always been interested in science and math. I've exceeded in
 
 ### Education and Data
 The systemic approach to education from Pre-School up and through University follows important steps of learning and development from historical data. We are tested and examined for improvement through study and analysis from the beginning of the year to the end of the year. It's a system that works well and helps us see where we are and where we can improve.
-<br><br>
-Why Does This Matter?
+
+### Why Does This Matter?
 Education has had such a profound impact on my life and has significantly helped me get to where I am today. I've decided to look into some data regarding education that can provide significant findings and recommendations for improvement in key areas including: student achievements, graduation rates, and varying factors affecting progress.
 My goal is to provide a comprehensive overview of schools in one specific state (Massachusetts) and to help policymakers, educators, and parents make informed decisions about the future of education in that and other states / countries.
 Key Findings
