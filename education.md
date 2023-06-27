@@ -4,7 +4,7 @@
 This is my Education Project
 
 Education around the world can be considered one of the greatest contributions to a thriving society. Countries that have well-established education programs often yield high contributing individuals and families that make impactful differences in their communities. From a young age we learn, develop and foster relationships and principles of improving our skills in academia. These skills then can be applied to every day life like problem solving, conflict resolution, and innovation. We learn about History, Language, Social Studies, Math, Music, etc. Is anybody transported back to middle-school homeroom waiting for the bell to ring?
----
+<br><br>
 Me personally, I've always been interested in science and math. I've exceeded in those areas throughout my education journey and it has always been a fun challenge for me. Something about numbers and logic just makes sense.
 Education and Data
 The systemic approach to education from Pre-School up and through University follows important steps of learning and development from historical data. We are tested and examined for improvement through study and analysis from the beginning of the year to the end of the year. It's a system that works well and helps us see where we are and where we can improve.
