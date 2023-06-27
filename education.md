@@ -1,7 +1,7 @@
 # Mass. Education Analysis via Tableau
 
 
-image 1
+<img src="images/edupic.png?raw=true"/>
 
 Education around the world can be considered one of the greatest contributions to a thriving society. Countries that have well-established education programs often yield high contributing individuals and families that make impactful differences in their communities. From a young age we learn, develop and foster relationships and principles of improving our skills in academia. These skills then can be applied to every day life like problem solving, conflict resolution, and innovation. We learn about History, Language, Social Studies, Math, Music, etc. Is anybody transported back to middle-school homeroom waiting for the bell to ring?
 <br><br>
@@ -36,7 +36,7 @@ What are the top math schools in the state?
 
 ## Analysis
 As I was looking through the Massachusetts schools and various data, I was initially curious at how many schools there were and the number of students enrolled.
-image 2
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Low Performing Schools
 According to my work with the super intendant, they wanted to know which high schools are the bottom 10 in graduation %. In order to figure this out, I needed to compare the name of the school against the % of graduating. I filtered out any schools that did not have a graduation % and included only high schools as part of my search. The following bar chart illustrates the top 10 lowest graduating high schools in the state.
