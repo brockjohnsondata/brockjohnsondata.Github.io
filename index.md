@@ -5,7 +5,7 @@
 ### Explore My Projects
 
 #### [DoorDash Project](https://www.linkedin.com/pulse/doordash-data-delivery-brock-johnson%3FtrackingId=eH3tYWYiSMCiE%252BXsCcuxxQ%253D%253D/?trackingId=eH3tYWYiSMCiE%2BXsCcuxxQ%3D%3D)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ddpic.jpg?raw=true"/>
 Pretty interesting right?
 
 ---
