@@ -1,7 +1,6 @@
 # Welcome to My Portfolio
 
 ---
-<img src="images/dataviz.jpg?raw=true"/>
 
 ### Explore My Projects
 
