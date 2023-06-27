@@ -21,7 +21,7 @@ Class size DOES NOT have statistically significant influence on college attendan
 25 % of districts in MA have lower than 50% proficiency in 4th Grade Math.
 
 ### The Data
-This is a real data set taken from the Massachusetts' Department of Education. It comes from a combination of multiple reports. The original data set is from 2017 and can be found here(link1). 
+This is a real data set taken from the Massachusetts' Department of Education. It comes from a combination of multiple reports. The original data set is from 2017 and can be found #### [here](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data). 
 This dataset is slightly modified for educational and training purposes. I will be referring to a made-up scenario where I am working with the Massachusetts State Superintendent to figure out key areas of concern.
 
 The data dictionary lists the report from which each field is sourced. It includes original field names and the dataset consists of 298 categories and 1861 different schools. The data came from an Excel csv file that was uploaded and analyzed through Tableau Public.
