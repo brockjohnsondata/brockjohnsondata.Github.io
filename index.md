@@ -4,7 +4,7 @@
 
 ### Explore My Projects
 
-#### [DoorDash Project](/bank)
+#### [DoorDash Project](/doordash)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Pretty interesting right?
 
