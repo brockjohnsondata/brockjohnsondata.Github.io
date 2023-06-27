@@ -85,6 +85,6 @@ This Dashboard completes the report of all analyses and insights we found from t
 ### Conclusion
 To recap our analyses from this data set, economic status does have some influence on both high school graduating % and college attendance. Perhaps the governing bodies should look into providing more funding and more help to improve these numbers. Class size does not play any role in college attendance %. I recommend not investing more money in more schools for that reason. And finally, the top 3 districts in 4th grade math ought to help the bottom 25% districts who fall below the 50% proficiency threshold.
 
-Thank you for reading all of this. If you have any questions feel free to comment below or connect with me [Brock Johnson]Brock Johnson (https://www.linkedin.com/in/n-brock-johnson/) on LinkedIn.
+Thank you for reading all of this. If you have any questions feel free to comment below or connect with me [Brock Johnson](https://www.linkedin.com/in/n-brock-johnson/) on LinkedIn.
 
 I am looking for new opportunities in the data world, so if you hear of any or are in the market please reach out, thanks!
