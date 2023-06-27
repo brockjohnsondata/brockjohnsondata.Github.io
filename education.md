@@ -39,7 +39,7 @@ As I was looking through the Massachusetts schools and various data, I was initi
 ### Low Performing Schools
 According to my work with the super intendant, they wanted to know which high schools are the bottom 10 in graduation %. In order to figure this out, I needed to compare the name of the school against the % of graduating. I filtered out any schools that did not have a graduation % and included only high schools as part of my search. The following bar chart illustrates the top 10 lowest graduating high schools in the state.
 
-<img src="images/2barchart school vs %grad.png?raw=true"/>
+<img src="images/2barchartschoolvsgrad.png?raw=true"/>
 
 Out of 376 different schools in the state, 37 of those schools were below 50% graduation rate. I was curious to see if these schools, especially the bottom 10, had any correlation to economic status. Upon further investigation, I measured the graduation percentage against the economic status. The chart below shows us that 9 out of the 10 bottom schools in the state had an economic disadvantage greater than 50%.
 
@@ -53,11 +53,11 @@ The superintendent was then wondering how college attendance could be increased.
 
 At this point, I decided to compare the average class size to the college attendance %. The results here were a little interesting. There was a general spread of variance, but the bulk was highly concentrated between 12-20 students per class and 60-90% college attendance. To fully understand the relationship between these 2 variables, I plotted a linear regression and found that the R-squared value was only 19%. This means that only 19% of the variance can be explained by the class size. So not great.
 
-<img src="images/4Scatter %college vs class size.png?raw=true"/>
+<img src="images/4Scattercollegevsclasssize.png?raw=true"/>
 
 Through additional consideration, I then compared the college attendance % against economic status. The following regression shows us a R-squared value of 40%. Meaning that there is a greater correlation here. It doesn't account for the entirety of the variance, but it is noteworthy to ponder. So, the greater % of economic disability the lower college attendance %.
 
-<img src="images/5scatter %college vs ecodis.png?raw=true"/>
+<img src="images/5scattercollegevsecodis.png?raw=true"/>
 
 And finally, I decided to weigh the economic status to the original plots to see if this would show us any more insights. The following scatter plot is arranged in color density based on economic status. If the data was below 50% economically disadvantaged, the color would be red. If it was greater, the color would be blue.
 
