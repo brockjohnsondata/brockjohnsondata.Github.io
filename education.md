@@ -7,7 +7,7 @@ Education around the world can be considered one of the greatest contributions t
 <br><br>
 Me personally, I've always been interested in science and math. I've exceeded in those areas throughout my education journey and it has always been a fun challenge for me. Something about numbers and logic just makes sense.
 <br><br>
-###Education and Data
+### Education and Data
 <br><br>
 The systemic approach to education from Pre-School up and through University follows important steps of learning and development from historical data. We are tested and examined for improvement through study and analysis from the beginning of the year to the end of the year. It's a system that works well and helps us see where we are and where we can improve.
 <br><br>
