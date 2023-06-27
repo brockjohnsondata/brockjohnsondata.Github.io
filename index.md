@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ---
-
+<img src="images/dataviz.jpg?raw=true"/>
 ### Explore My Projects
 
 #### [DoorDash Project](https://www.linkedin.com/pulse/doordash-data-delivery-brock-johnson%3FtrackingId=eH3tYWYiSMCiE%252BXsCcuxxQ%253D%253D/?trackingId=eH3tYWYiSMCiE%2BXsCcuxxQ%3D%3D)
