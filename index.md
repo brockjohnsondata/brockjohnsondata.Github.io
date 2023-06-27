@@ -4,24 +4,13 @@
 
 ### Explore My Projects
 
-#### [DoorDash Project](/doordash)
+#### [DoorDash Project](https://www.linkedin.com/pulse/doordash-data-delivery-brock-johnson%3FtrackingId=eH3tYWYiSMCiE%252BXsCcuxxQ%253D%253D/?trackingId=eH3tYWYiSMCiE%2BXsCcuxxQ%3D%3D)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Pretty interesting right?
 
 ---
-#### [Tableau Project](/files/Day 12 - 21 days to data.pdf)
+#### [Education Project](https://www.linkedin.com/pulse/mass-education-analysis-via-tableau-brock-johnson%3FtrackingId=TVwUnoWOTSSUmFNGSw1lsw%253D%253D/?trackingId=TVwUnoWOTSSUmFNGSw1lsw%3D%3D)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
