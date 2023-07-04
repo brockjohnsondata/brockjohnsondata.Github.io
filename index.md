@@ -21,7 +21,12 @@ How does class size affect college admission?
 What are the top math schools in the state? 
 
 ---
-
+#### [SQL Healthcare Project](https://www.linkedin.com/pulse/diabetes-hospitals-sql-oh-my-brock-johnson%3FtrackingId=Iy7VYNvVSQGHjMbGysmdCw%253D%253D/?trackingId=Iy7VYNvVSQGHjMbGysmdCw%3D%3D)
+<img src="images/sqlhealth.jpg?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze hospital data by using SQL queries. The main focuses were:
+Which medical specialities are the most important for optimizing hospital operations?
+Does the time in the hospital affect how many procedures a patient has?
+Does race play a role in hospital treatment?
 
 
 
