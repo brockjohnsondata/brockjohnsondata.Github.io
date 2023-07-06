@@ -28,6 +28,7 @@ Which medical specialities are the most important for optimizing hospital operat
 Does the time in the hospital affect how many procedures a patient has?
 Does race play a role in hospital treatment?
 
+---
 #### [NBA Tableau Project](/nba)
 <img src="images/jazzbear.gif?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze NBA data from 2022-2023. The main focuses were:
