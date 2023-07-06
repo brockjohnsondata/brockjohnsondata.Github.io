@@ -28,6 +28,12 @@ Which medical specialities are the most important for optimizing hospital operat
 Does the time in the hospital affect how many procedures a patient has?
 Does race play a role in hospital treatment?
 
-
+#### [Education Project](/nba)
+<img src="images/jazzbear.gif?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze NBA data from 2022-2023. The main focuses were:
+What position is most efficient at shooting 3-pointers for each team?
+How did individual players perform last season in terms of points, assists, and total rebounds?
+What were the total points for each team and how much did each player contribute?
+What players had the most assists in every position?
 
 
