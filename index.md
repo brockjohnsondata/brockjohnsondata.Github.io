@@ -4,7 +4,7 @@
 
 ### Explore My Projects
 
-#### [DoorDash Project](https://www.linkedin.com/pulse/doordash-data-delivery-brock-johnson%3FtrackingId=eH3tYWYiSMCiE%252BXsCcuxxQ%253D%253D/?trackingId=eH3tYWYiSMCiE%2BXsCcuxxQ%3D%3D)
+#### [DoorDash Project with Excel](https://www.linkedin.com/pulse/doordash-data-delivery-brock-johnson%3FtrackingId=eH3tYWYiSMCiE%252BXsCcuxxQ%253D%253D/?trackingId=eH3tYWYiSMCiE%2BXsCcuxxQ%3D%3D)
 <img src="images/ddpic.jpg?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the effect of food delivery data. The main focuses were:
 What is the average and total amount of money spent by each customer?
@@ -13,12 +13,20 @@ What is the age range of customers using DoorDash®?
 Does the amount of children in the home affect DoorDash® usage?
 
 ---
-#### [Education Project](/education)
+#### [Education Project with Tableau](/education)
 <img src="images/edupic.png?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state? 
+
+---
+#### [World Bank Project with SQL](https://www.linkedin.com/pulse/world-bank-brock-johnson/)
+<img src="images/worldbank.jpg?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze the World Bank data. The main focuses were:
+What do the transactions and loans amount look like?
+Which countries are borrowing the most and for what purpose?
+How has Ukraine been affected in recent times with the World Bank? 
 
 ---
 #### [SQL Healthcare Project](https://www.linkedin.com/pulse/diabetes-hospitals-sql-oh-my-brock-johnson%3FtrackingId=Iy7VYNvVSQGHjMbGysmdCw%253D%253D/?trackingId=Iy7VYNvVSQGHjMbGysmdCw%3D%3D)
