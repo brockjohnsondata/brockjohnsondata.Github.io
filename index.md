@@ -45,4 +45,9 @@ How did individual players perform last season in terms of points, assists, and 
 What were the total points for each team and how much did each player contribute?
 What players had the most assists in every position?
 
-
+---
+#### [Python Processing Project](https://www.linkedin.com/pulse/python-processing-plant-brock-johnson/)
+<img src="images/mfgfloat.gif?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze data from a manufacturing company that specializes in Froth flotation process. The main focuses were:
+Understanding how Python is used to help triangulate and clean data.
+If there were any anomalies found and what they mean.
