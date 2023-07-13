@@ -51,3 +51,10 @@ What players had the most assists in every position?
 In this case study from Data Analytics Accelerator, I was prompted to analyze data from a manufacturing company that specializes in Froth flotation process. The main focuses were:
 Understanding how Python is used to help triangulate and clean data.
 If there were any anomalies found and what they mean.
+
+---
+#### [R Attrition HR Project](https://www.linkedin.com/pulse/hr-attrition-rates-r-brock-johnson/)
+<img src="images/hrsb.gif?raw=true"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze data from IBM to look into their Attrition rates through HR. The main focuses were:
+Looking at correlations between age and other factors.
+Proving wrong false claims about ageism and longevity.
