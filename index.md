@@ -5,7 +5,7 @@
 ### Explore My Projects
 
 #### [Capstone: Europe's Top 5 Football Leagues](https://www.linkedin.com/pulse/europes-big-5-football-data-glance-2022-2023-brock-johnson/)
-<img src="soccer.gif?raw=true"/>
+<img src="images/soccer.gif?raw=true"/>
 In this capstone project for Data Analytics Accelerator, I wanted to analyze football data. The main focuses were:
 Which players are the top performing in Goals and Assists?
 What is the expected Goals % and why is that important?
