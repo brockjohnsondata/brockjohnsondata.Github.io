@@ -4,6 +4,16 @@
 
 ### Explore My Projects
 
+#### [Capstone: Europe's Top 5 Football Leagues](https://www.linkedin.com/pulse/europes-big-5-football-data-glance-2022-2023-brock-johnson/)
+<img src="soccer.gif?raw=true"/>
+In this capstone project for Data Analytics Accelerator, I wanted to analyze football data. The main focuses were:
+Which players are the top performing in Goals and Assists?
+What is the expected Goals % and why is that important?
+What is the peak age for scoring goals?
+Which Competition has the most Yellow and Red Cards?
+Does the Attendance in a Home game affect the outcome of the Match?
+
+---
 #### [DoorDash Project with Excel](https://www.linkedin.com/pulse/doordash-data-delivery-brock-johnson%3FtrackingId=eH3tYWYiSMCiE%252BXsCcuxxQ%253D%253D/?trackingId=eH3tYWYiSMCiE%2BXsCcuxxQ%3D%3D)
 <img src="images/ddpic.jpg?raw=true"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the effect of food delivery data. The main focuses were:
